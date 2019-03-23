@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorkManager</string>
+    <string name="jam">Jam</string>
+    <string name="durasi">Durasi</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="run">Run</string>
+    <string name="cancel">Cancel</string>
+</resources>
